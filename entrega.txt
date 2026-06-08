@@ -1,0 +1,13 @@
+GLOBAL SOLUTION - FIAP
+
+Integrantes:
+
+Kaique Da Silva Assis — RM 572718
+Andre Debiazzi — RM 569062
+Vinicius Cristal de Oliveira — RM 572049
+
+Link do GitHub:
+https://github.com/KaiqueKai/space-energy-monitor
+
+Link do Vídeo:
+https://www.youtube.com/watch?v=M7-yFGlv7A8
