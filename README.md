@@ -1,4 +1,4 @@
-# 🚀 Space Energy Monitor
+#  Space Energy Monitor
 
 ## Integrantes
 
